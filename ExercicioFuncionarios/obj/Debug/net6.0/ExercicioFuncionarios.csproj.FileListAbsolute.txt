@@ -1,0 +1,15 @@
+E:\ws-vs2022\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\net6.0\ExercicioFuncionarios.exe
+E:\ws-vs2022\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\net6.0\ExercicioFuncionarios.deps.json
+E:\ws-vs2022\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\net6.0\ExercicioFuncionarios.runtimeconfig.json
+E:\ws-vs2022\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\net6.0\ExercicioFuncionarios.dll
+E:\ws-vs2022\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\net6.0\ExercicioFuncionarios.pdb
+E:\ws-vs2022\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net6.0\ExercicioFuncionarios.csproj.AssemblyReference.cache
+E:\ws-vs2022\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net6.0\ExercicioFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\ws-vs2022\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net6.0\ExercicioFuncionarios.AssemblyInfoInputs.cache
+E:\ws-vs2022\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net6.0\ExercicioFuncionarios.AssemblyInfo.cs
+E:\ws-vs2022\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net6.0\ExercicioFuncionarios.csproj.CoreCompileInputs.cache
+E:\ws-vs2022\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net6.0\ExercicioFuncionarios.dll
+E:\ws-vs2022\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net6.0\refint\ExercicioFuncionarios.dll
+E:\ws-vs2022\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net6.0\ExercicioFuncionarios.pdb
+E:\ws-vs2022\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net6.0\ExercicioFuncionarios.genruntimeconfig.cache
+E:\ws-vs2022\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net6.0\ref\ExercicioFuncionarios.dll
